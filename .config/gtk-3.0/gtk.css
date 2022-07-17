@@ -1,0 +1,4 @@
+/* Add terminal padding */
+VteTerminal, vte-terminal {
+    padding: 13px;
+}
